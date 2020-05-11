@@ -12,7 +12,7 @@
 
 * How to make decisions based on p-values. That is, if the p-value is less than your Type I error threshold, then you have evidence to reject the null and choose the alternative. Otherwise, you fail to reject the null hypothesis.
 
-<p align="center"
+<p align="center">
 <img src="./img/1.JPG" alt="" >
 </p>
 * When sample sizes are really large, everything appears statistically significant (that is you end up rejecting essentially every null), but these results may not be practically significant. 

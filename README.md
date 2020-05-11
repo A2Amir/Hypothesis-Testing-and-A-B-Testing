@@ -23,3 +23,12 @@
 <p align="center">
 <img src="./img/2.JPG" alt="" width="400" height="400">
 </p>
+
+* The Law of Large Numbers says that as our sample size increases, the sample mean gets closer to the population mean.
+
+* The Central Limit Theorem states that with a large enough sample size the sampling distribution of the mean will be normally distributed. The Central Limit Theorem actually applies for these well known statistics:
+
+   * Sample means (x¯)
+   * Sample proportions (p)
+   * Difference in sample means (x¯1−x¯2)
+   * Difference in sample proportions (p1−p2)

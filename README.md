@@ -12,13 +12,13 @@
 
 * How to make decisions based on p-values. That is, if the p-value is less than your Type I error threshold, then you have evidence to reject the null and choose the alternative. Otherwise, you fail to reject the null hypothesis.
 
-<p align="right">
+<p align="center"
 <img src="./img/1.JPG" alt="" >
 </p>
 * When sample sizes are really large, everything appears statistically significant (that is you end up rejecting essentially every null), but these results may not be practically significant. 
 
 * When performing multiple hypothesis tests, your errors will compound. Therefore, using some sort of correction to maintain your true Type I error rate is important. A simple, but very conservative approach is to use what is known as a Bonferroni correction, which says you should just divide your α\alphaα level (or Type I error threshold) by the number of tests performed.
 
-<p align="right">
+<p align="center">
 <img src="./img/2.JPG" alt="" width="400" height="400">
 </p>

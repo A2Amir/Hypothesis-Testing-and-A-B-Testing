@@ -1,7 +1,7 @@
 # Hypothesis testing
  In these notebooks ([1](https://github.com/A2Amir/Hypothesis-testing/blob/master/What%20is%20the%20impact%20of%20sample%20size.ipynb),[2](https://github.com/A2Amir/Hypothesis-testing/blob/master/Multiple%20Testing.ipynb)) we will be learning:
  
- * The null hypothesis is what we assume to be true before we collect any data, and the alternative is usually what we want to try and prove to be true.
+ * The **null hypothesis is what we assume to be true before we collect any data**, and **the alternative is usually what we want to try and prove to be true**.
 
 * Type I errors are the worst type of errors, and these are associated with choosing the alternative when the null hypothesis is actually true.
 
@@ -10,7 +10,7 @@
 
 
 
-* How to make decisions based on p-values. That is, if the p-value is less than your Type I error threshold, then you have evidence to reject the null and choose the alternative. Otherwise, you fail to reject the null hypothesis.
+* How to make decisions based on p-values. That is, if **the p-value is less than your Type I error threshold, then you have evidence to reject the null and choose the alternative. Otherwise, you fail to reject the null hypothesis**.
 
 <p align="center">
 <img src="./img/1.JPG" alt="" >

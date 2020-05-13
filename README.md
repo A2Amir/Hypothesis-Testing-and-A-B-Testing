@@ -32,3 +32,5 @@
    * Sample proportions (p)
    * Difference in sample means (x¯1−x¯2)
    * Difference in sample proportions (p1−p2)
+# A/B testing
+In this [notebook](https://github.com/A2Amir/Hypothesis-testing/blob/master/A-B%20Testing.ipynb) we will learn about the use of hypothesis testing in A/B testing.

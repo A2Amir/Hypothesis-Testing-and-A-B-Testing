@@ -34,3 +34,14 @@
    * Difference in sample proportions (p1−p2)
 # A/B testing
 In this [notebook](https://github.com/A2Amir/Hypothesis-testing/blob/master/A-B%20Testing.ipynb) we will learn about the use of hypothesis testing in A/B testing.
+
+### Difficulties in A/B Testing
+
+There are many factors to consider when designing an A/B test and drawing conclusions based on its results. To conclude, here are some common ones to consider.
+
+   * **Novelty effect and change aversion** when existing users first experience a change
+   * Sufficient traffic and conversions to have significant and repeatable results
+   * Best metric choice for making the ultimate decision (eg. measuring revenue vs. clicks)
+   * Long enough run time for the experiment to account for changes in behavior based on time of day/week or seasonal events.
+    * Practical significance of a conversion rate (the cost of launching a new feature vs. the gain from the increase in conversion)
+    * Consistency among test subjects in the control and experiment group (imbalance in the population represented in each group can lead to situations like Simpson's Paradox)
